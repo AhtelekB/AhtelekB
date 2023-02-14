@@ -27,5 +27,7 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=AhtelekB&theme=xcode" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AhtelekB&theme=dracula />
+  
+  [![Ashutosh's github activity graph])]()
 </div>
