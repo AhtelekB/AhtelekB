@@ -28,6 +28,4 @@
 
 <div align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AhtelekB&theme=dracula />
-  
-  [![Ashutosh's github activity graph])]()
-</div>
+              </div>
